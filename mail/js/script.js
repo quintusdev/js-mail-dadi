@@ -16,7 +16,7 @@ for(let i=0; i<mail.length; i++) {
 }
 
 //VISUALIZZO RISULTATO IN UN ALERT
-if (flag == true) {
+if (flag === true) {
     alert('Con la tua e-mail puoi accedere.'); 
 
 } else {
