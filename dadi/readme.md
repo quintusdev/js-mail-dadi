@@ -1,0 +1,7 @@
+PROBLEMA: Generare un numero random da 1 a 6, sia per il giocatore sia per il computer. Stabilire il vincitore, in base a chi fa il punteggio più alto.
+
+1 - CREO UNA VARIABILE DOVE INSERIRO' UN VALORE PER IL PC E UNO PER IL GIOCATORE;
+2 - GENERO IN ENTRAMBE LE VARIABILI UN VALORE CASUALE DA 1 A 6;
+3 - CONFRONTO I DUE NUMERI, QUELLO PIU' GRANDE SARA' IL VINCITORE;
+4 - IN CASO DI PAREGGIO VINCE IL PC;
+5 - VISUALIZZO IL RISULTATO A VIDEO;
