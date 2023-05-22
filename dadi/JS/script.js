@@ -15,14 +15,14 @@ num_pc = Math.floor(Math.random() * 6 + 1);
 
 if (num_utente > num_pc) {
 
-    alert("Il tuo numero è: " + ` ${num_utente} `+ " che è maggiore di:  " + ` ${num_pc} ` + ' Hai Vinto!!!. Grazie per aver giocato!');
+    alert("Il tuo numero è: " + ` ${num_utente} `+ " che è maggiore di:  " + ` ${num_pc} !` + ' Hai Vinto!!!. Grazie per aver giocato!');
 
 } else if (num_utente === num_pc) {
 
-    alert("Il tuo numero è: " + ` ${num_utente} `+ " che è uguale a :  " + ` ${num_pc} ` +  ' Hai Perso!!! Pareggio!');
+    alert("Il tuo numero è: " + ` ${num_utente} `+ " che è uguale a :  " + ` ${num_pc} !` +  ' Hai Perso!!! Pareggio!');
 
 } else {
     
-    alert("Il tuo numero è: " + ` ${num_utente} `+ " che è minore di:  " + ` ${num_pc} ` +  ' Hai Perso!!! Ritenta sarai più fortunato!');
+    alert("Il tuo numero è: " + ` ${num_utente} `+ " che è minore di:  " + ` ${num_pc} !` +  ' Hai Perso!!! Ritenta sarai più fortunato!');
 }
 
